@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InternityTasks</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="college_name">College Name</string>
+    <string name="course">Course</string>
+    <string name="address">Address</string>
+    <string name="get_data">Get Data</string>
+    <string name="name1">Name:</string>
+    <string name="email_id1">Email Id:</string>
+    <string name="college_name1">College Name:</string>
+    <string name="course1">Course</string>
+    <string name="address11">Address</string>
+    <string name="submit">Submit Details</string>
+</resources>
